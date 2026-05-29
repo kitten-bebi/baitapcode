@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "baitapcode": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
