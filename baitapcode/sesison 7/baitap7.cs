@@ -11,7 +11,7 @@ namespace baitapso7
 {
     internal class baiso7
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             //cau1
             int n;

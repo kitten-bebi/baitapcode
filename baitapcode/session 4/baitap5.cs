@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-class Program
+class Program2
 {
     // Bài 1
     static int TinhTong(int a, int b)

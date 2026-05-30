@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="NewFolder\session 6\" />
+    <Folder Include="session 6\" />
   </ItemGroup>
 
 </Project>
